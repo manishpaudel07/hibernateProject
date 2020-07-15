@@ -19,7 +19,7 @@
 
 </header>
 <br>
-<h1> hello there </h1>
+
 <div class="container" style="width:50%">
 
 <img src="img/books.jpeg" style="height:204px">

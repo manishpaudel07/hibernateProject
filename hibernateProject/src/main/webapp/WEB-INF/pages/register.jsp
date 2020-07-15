@@ -50,6 +50,15 @@
     <option> 2000</option>
     <option> 3000</option>
     
+    
+    </select>
+    
+      <label for="hours" >Enter the hours</label>
+    <select class="form-control"  name=hours">
+    <option> 10</option>
+    <option> 20</option>
+    
+    
     </select>
     <br>
     
